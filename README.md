@@ -1,3 +1,3 @@
-## Selenium_saucedemo.com
+# Selenium Web Driver: saucedemo.com
 
-#Just run QAtest.exe file in folder bin\Debug\netcoreapp3.1\
+Just run <b>QAtest.exe</b> file in folder <b>bin\Debug\netcoreapp3.1\</b>
