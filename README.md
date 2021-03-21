@@ -1,1 +1,3 @@
-# Selenium_saucedemo.com
+## Selenium_saucedemo.com
+
+#Just run QAtest.exe file in folder bin\Debug\netcoreapp3.1\
